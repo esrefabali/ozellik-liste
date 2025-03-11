@@ -1,5 +1,4 @@
 1. Çoklu dil desteği
 2. Hızlı yüklenme süreleri
-3. Kullanıcı dostu arayüz
-4. Yüksek güvenlik önlemleri
-5.Yüksek performanslı arama
+3. Yüksek güvenlik önlemleri
+4.Yüksek performanslı arama
