@@ -2,3 +2,4 @@
 2. Hızlı yüklenme süreleri
 3. Çoklu dil desteği
 4. Yüksek güvenlik önlemleri
+5.Yüksek performanslı arama
